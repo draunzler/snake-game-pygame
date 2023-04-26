@@ -2,4 +2,4 @@
 
 just download and run the code on any IDE.
 
-MUST HAVE Python installed and <pygame> package
+MUST HAVE Python installed and pygame package
